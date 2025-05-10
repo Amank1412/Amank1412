@@ -2,7 +2,7 @@
 # Hi there, I'm Aman 👋 
 
 ## About Me
-I am a Computer Science and Engineering student with a passion for coding and problem-solving. I enjoy tackling challenging problems and competing in programming contests.
+I'm a first-year Computer Science and Engineering student with a strong passion for competitive programming and problem solving. I enjoy tackling algorithmic challenges, improving my coding skills, and building real-world tech projects.
 
 ## 🛠️ Skills
 
