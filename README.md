@@ -37,8 +37,6 @@ I'm a first-year Computer Science and Engineering student with a strong passion 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/Amank1412)
-- [X](https://x.com/Amank1412)
 
 - <div align="center">
  
