@@ -40,6 +40,20 @@ I'm a first-year Computer Science and Engineering student with a strong passion 
 - [LinkedIn](https://www.linkedin.com/in/Amank1412)
 - [X](https://x.com/Amank1412)
 
+- <div align="center">
+ 
+
+    <a href="https://www.linkedin.com/in/Amank1412" style="text-decoration: none; display: inline-block;">
+        <img src="./assets/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    </a>
+    &nbsp;&nbsp;
+
+    &nbsp;&nbsp;
+    <a href="https://x.com/Amank1412" style="text-decoration: none; display: inline-block;">
+        <img src="./assets/twitter.svg" alt="Twitter" height="30" width="30" />
+    </a>
+</div>
+
 
 
 Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!
