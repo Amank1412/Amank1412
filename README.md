@@ -18,7 +18,7 @@ Hi, I'm a first-year Computer Science and Engineering student. I'm currently lea
 - **Frameworks and Libraries**:  
   <div align="left">
   
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />  
+      
     
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
   
