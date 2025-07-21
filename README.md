@@ -54,19 +54,17 @@ I'm a passionate, Full‑Stack Developer and Web3 enthusiast who loves building 
   </div>
 
 ### 📬 Let's Connect!
-
 <div align="left">
   <a href="https://amannn.site">
-    <img src="https://img.shields.io/badge/Portfolio-1DB954?style=for-the-badge&logo=rss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1DB954?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/Amank1412">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/Amank1412">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
-
 
 
 *Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!*
