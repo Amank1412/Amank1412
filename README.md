@@ -1,5 +1,6 @@
 
 # Hey Everyone, I'm Aman 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Amank1412&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ## About Me
 I'm a passionate, Full‑Stack Developer and Web3 enthusiast who loves building and shipping innovative products. I actively join hackathons, contribute to open‑source, and enjoy collaborating on impactful projects. Always exploring new tech and ready to build something amazing together!
@@ -66,5 +67,4 @@ I'm a passionate, Full‑Stack Developer and Web3 enthusiast who loves building 
   </a>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amank1412&" alt="Amank1412" /></p>
 *Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!*
