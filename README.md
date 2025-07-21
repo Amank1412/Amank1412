@@ -55,7 +55,7 @@ I'm a passionate, Full‑Stack Developer and Web3 enthusiast who loves building 
 
 ### 📬 Let's Connect!
 
-<p align="center">
+<p align="left">
   <a href="https://amannn.site">
     <img src="https://img.shields.io/badge/Portfolio-1DB954?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
