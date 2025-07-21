@@ -65,4 +65,6 @@ I'm a passionate, Full‑Stack Developer and Web3 enthusiast who loves building 
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amank1412&" alt="Amank1412" /></p>
 *Feel free to reach out to me if you'd like to collaborate on any projects or just want to connect!*
