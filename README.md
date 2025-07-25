@@ -60,6 +60,7 @@ I'm a passionate, Full‑Stack Developer and Web3 enthusiast who loves building 
 - [LinkedIn](https://www.linkedin.com/in/Amank1412)
 - [Twitter](https://twitter.com/Amank1412)
 - [Portfolio](https://amannn.site/)
+- [Medium](https://medium.com/@Amank1412)
 
 
 
