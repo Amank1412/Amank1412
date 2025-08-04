@@ -39,8 +39,7 @@ I'm a passionate, Full‑Stack Developer and Web3 enthusiast who loves building 
 - **Backend Development**:  
   <div align="left">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />  
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />  
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />   
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
 
