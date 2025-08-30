@@ -6,7 +6,7 @@
 I’m a **Full-Stack Developer** and **Web3 enthusiast** who loves building and shipping innovative products. I enjoy exploring new technologies, working on **React.js, Next.js, and TypeScript**, and actively participate in **hackathons** and **open-source projects**. Always excited to collaborate and create impactful solutions!  
 
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
 ### Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
