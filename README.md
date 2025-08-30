@@ -3,13 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Amank1412&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 ## About Me
-I'm a passionate, Full‑Stack Developer and Web3 enthusiast who loves building and shipping innovative products. I actively join hackathons, contribute to open‑source, and enjoy collaborating on impactful projects. Always exploring new tech and ready to build something amazing together!
-
-- 🔭 I’m currently working on and **React.js** projects.  
-- 🌱 I’m currently learning **Next.js** and **TypeScript**.
-- 👯 I’m looking to collaborate on **open-source projects**.  
-- 💬 Ask me about **fullstack development**.  
-- 📫 How to reach me: **amankumarr7390@gmail.com**
+I’m a **Full-Stack Developer** and **Web3 enthusiast** who loves building and shipping innovative products. I enjoy exploring new technologies, working on **React.js, Next.js, and TypeScript**, and actively participate in **hackathons** and **open-source projects**. Always excited to collaborate and create impactful solutions!  
 
 
 ## 🚀 Tech Stack  
