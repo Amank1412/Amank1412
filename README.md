@@ -21,7 +21,7 @@ I’m a passionate **full-stack developer** and AI enthusiast pursuing a **B.Tec
 
 ## Connect with Me
 
-🌐 [Portfolio](amannn.site)  
+🌐 [Portfolio](https://www.amannn.site/)  
 💼 [LinkedIn](https://linkedin.com/in/amank1412)  
 🐙 [GitHub](https://github.com/Amank1412)  
 
