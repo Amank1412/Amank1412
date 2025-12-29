@@ -2,8 +2,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/Amank1412" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://amannnn.site" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-amannn.site-black?style=flat-square"></a>
-<a href="https://medium.com/Amank1412" target="_blank" style="text-decoration:none;outline:none;border:0;">
+  <a href="https://amannn.site" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-amannn.site-black?style=flat-square"></a>
+<a href="https://medium.com/@Amank1412" target="_blank" style="text-decoration:none;outline:none;border:0;">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium"></a>
   <a href="mailto:amankumarr7390@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=email"></a>
 </p>
