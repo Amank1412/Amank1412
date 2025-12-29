@@ -10,6 +10,3 @@ I’m a passionate **full-stack developer** and **web3 enthusiast** pursuing a *
 🌐 [Portfolio](https://www.amannn.site/)  
 💼 [LinkedIn](https://linkedin.com/in/amank1412)  
 🐙 [GitHub](https://github.com/Amank1412)  
-
----
-💡 *Learning. Building. Evolving.!*
