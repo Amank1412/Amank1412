@@ -8,10 +8,10 @@ I’m a passionate **full-stack developer** and **web3 enthusiast** pursuing a *
 
 ## What I work with
 
-**Core:** Frontend (React / Next.js), Node.js, TypeScript
-**Full-Stack** REST APIs, authentication, databases, deployment
-**Infrastructure:** Docker, GitHub Actions, PostgreSQL, Firebase, Vercel
-**explored:** Solidity, Rust
+**Core:** Frontend (React / Next.js), Node.js, TypeScript <br>
+**Full-Stack:** REST APIs, authentication, databases, deployment <br>
+**Infrastructure:** Docker, GitHub Actions, PostgreSQL, Firebase, Vercel <br>
+**Explored:** Solidity, Rust
 
 I like working across the stack from UI to backend and I pick tools based on performance, scalability, and clean developer experience.
   
