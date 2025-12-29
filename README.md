@@ -1,4 +1,4 @@
-# hi there, I'm Aman!
+# hi there, I'm Aman
 
 **Full-Stack Developer | Web3 Enthusiast**  
 
