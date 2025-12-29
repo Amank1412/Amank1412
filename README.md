@@ -10,7 +10,7 @@
 
 ---
 
-I’m a passionate **full-stack developer** and **web3 enthusiast** pursuing a **B.Tech in Computer Science & Engineering** With a strong drive to create products people love, I focus on building intelligent, user-centric web applications that seamlessly merge AI and full-stack development to solve real-world problems.  
+I’m a full-stack developer pursuing a B.Tech in Computer Science & Engineering. I previously worked as a Quantitative Research Consultant at **WorldQuant** I’m deeply interested in Web3 and enjoy building user-centric decentralized applications that solve real-world problems. My focus is on creating products that are reliable, scalable, and simple to use leveraging modern full-stack development and blockchain technologies.
 
 ---
 
