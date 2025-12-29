@@ -6,4 +6,4 @@ I’m a passionate **full-stack developer** and **web3 enthusiast** pursuing a *
   
 
 **Find me:**
-[Portfolio](https://amannn.site) • [LinkedIn](https://www.linkedin.com/in/Amank1412) • [Mail](amankumarr7390@gmail.com)
+[Portfolio](https://amannn.site) • [LinkedIn](https://www.linkedin.com/in/Amank1412) • [amankumarr7390@gmail.com](mailto:amankumarr7390@gmail.com)
