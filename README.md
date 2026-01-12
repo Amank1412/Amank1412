@@ -16,7 +16,7 @@ I’m a full-stack developer pursuing a B.Tech in **Computer Science & Engineeri
 
 ## What I work with
 
-**Core:** Frontend React / Next.js, Node.js, TypeScript <br>
+**Frontend:** React / Next.js, Node.js, TypeScript <br>
 **Full-Stack:** REST APIs, authentication, databases, deployment <br>
 **Infrastructure:** Docker, GitHub Actions, PostgreSQL, Firebase, Vercel <br>
 **Explored:** Solidity, Rust
