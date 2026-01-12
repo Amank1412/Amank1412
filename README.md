@@ -10,13 +10,13 @@
 
 ---
 
-I’m a full-stack developer pursuing a B.Tech in Computer Science & Engineering. I previously worked as a Quantitative Research Consultant at **WorldQuant** I’m deeply interested in Web3 and enjoy building user-centric decentralized applications that solve real-world problems. My focus is on creating products that are reliable, scalable, and simple to use leveraging modern full-stack development and blockchain technologies.
+I’m a full-stack developer pursuing a B.Tech in **Computer Science & Engineering.** I previously worked as a Quantitative Research Consultant at **WorldQuant** I’m deeply interested in Web3 and enjoy building user-centric decentralized applications that solve real-world problems. My focus is on creating products that are reliable, scalable, and simple to use leveraging modern full-stack development and blockchain technologies.
 
 ---
 
 ## What I work with
 
-**Core:** Frontend (React / Next.js), Node.js, TypeScript <br>
+**Core:** Frontend React / Next.js, Node.js, TypeScript <br>
 **Full-Stack:** REST APIs, authentication, databases, deployment <br>
 **Infrastructure:** Docker, GitHub Actions, PostgreSQL, Firebase, Vercel <br>
 **Explored:** Solidity, Rust
