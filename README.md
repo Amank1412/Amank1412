@@ -19,7 +19,6 @@ I’m a full-stack developer and B.Tech CSE student with experience as a Quantit
 **Frontend:** React / Next.js, Node.js, TypeScript <br>
 **Full-Stack:** REST APIs, authentication, databases, deployment <br>
 **Infrastructure:** Docker, GitHub Actions, PostgreSQL, Firebase, Vercel <br>
-**Explored:** Solidity, Rust
 
 I like working across the stack from UI to backend and I pick tools based on performance, scalability, and clean developer experience.
   
