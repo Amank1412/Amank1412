@@ -9,11 +9,9 @@
 
 I build products at the intersection of AI, full-stack engineering, and growth.
 
-Currently pursuing a B.Tech in Computer Science while building modern web applications with React, Next.js, TypeScript, and Node.js. I recently worked as a Growth Engineer at Roger (YC S24), where I focused on product growth, user acquisition, and data driven experimentation to help scale adoption.
+Currently pursuing a B.Tech in Computer Science while building AI-powered web applications with React, Next.js, TypeScript, and Node.js. Previously worked as a Growth Engineer at Roger (YC S24), driving product growth and user acquisition, and as a Research Consultant at WorldQuant, developing quantitative trading strategies.
 
-Before that, I worked as a Research Consultant at WorldQuant, developing quantitative trading strategies across global markets using data driven research and statistical modeling.
-
-Beyond work, I spend most of my time shipping side projects, exploring AI-native applications, contributing to open source, and writing about software engineering, startups, and emerging technologies. I enjoy building products that are fast, practical, and designed around real user problems not just technical complexity.
+Outside of work, I enjoy shipping side projects, contributing to open source, and exploring AI-native applications. I like building fast, practical products that solve real user problems.
 
 ---
 
