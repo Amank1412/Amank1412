@@ -52,8 +52,6 @@ I enjoy contributing to open-source software by building features, improving dev
 - Added automated testing infrastructure, CI/CD workflows, and improved overall developer experience.
 - Collaborated with maintainers to modernize the project's architecture with production-ready engineering practices.
 
-**Repository:** https://github.com/healthyinc/bio-block
-
 ---
 **Find me:**  
 [Portfolio](https://portfolio-nunq.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amank1412/) • [amanwork911@gmail.com](mailto:amanwork911@gmail.com)
