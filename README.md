@@ -14,3 +14,46 @@ Currently pursuing a B.Tech in Computer Science while building modern web applic
 Before that, I worked as a Research Consultant at WorldQuant, developing quantitative trading strategies across global markets using data driven research and statistical modeling.
 
 Beyond work, I spend most of my time shipping side projects, exploring AI-native applications, contributing to open source, and writing about software engineering, startups, and emerging technologies. I enjoy building products that are fast, practical, and designed around real user problems not just technical complexity.
+
+---
+
+### Featured Projects
+
+
+ ### [Snapi](https://github.com/Amank1412/Snapi) | [Live Demo](https://snapi-phi.vercel.app)
+
+- **AI-powered Notion workspace** that transforms scattered notes into a structured, searchable knowledge base using Google Gemini.
+- Supports Notion OAuth, automatic page syncing, AI-generated summaries, smart tagging, and advanced filtering for effortless knowledge management.
+- **Tech Stack:** Next.js, TypeScript, Convex, Convex Auth, Google Gemini API, Tailwind CSS.
+
+### [Plume](https://github.com/Amank1412/Plume) | [Live Demo](https://plume-plum.vercel.app)
+
+- **AI composer for X (Twitter)** that generates viral hooks, threads, replies, rewrites, and CTAs in seconds using any OpenAI-compatible LLM.
+- Includes a built-in virality scoring engine, live tweet previews, one-click copy, and works without authentication or a database.
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui, OpenAI SDK, Gemini, Groq.
+
+### [Flowio](https://github.com/Amank1412/Flowio)
+
+- **Freelance contract management platform** for creating, sending, signing, and managing contracts with built-in subscription billing.
+- Features digital signatures, PDF generation, email delivery, analytics dashboard, Supabase authentication, and secure payment workflows.
+- **Tech Stack:** Next.js, TypeScript, Supabase, Resend, Dodo Payments, jsPDF, Tailwind CSS.
+
+---
+### Open Source
+
+I enjoy contributing to open-source software by building features, improving developer experience, and strengthening engineering workflows.
+
+### Featured Contribution
+
+#### [BioBlock](https://github.com/healthyinc/bio-block)
+
+- Contributed to the migration from **React + Vite** to **Next.js 15** with the App Router.
+- Implemented **API Routes**, **Server Actions**, and migrated the codebase to **TypeScript**.
+- Added automated testing infrastructure, CI/CD workflows, and improved overall developer experience.
+- Collaborated with maintainers to modernize the project's architecture with production-ready engineering practices.
+
+**Repository:** https://github.com/healthyinc/bio-block
+
+---
+**Find me:**  
+[Portfolio](https://portfolio-nunq.vercel.app) • [LinkedIn](https://www.linkedin.com/in/amank1412/) • [amanwork911@gmail.com](mailto:amanwork911@gmail.com)
