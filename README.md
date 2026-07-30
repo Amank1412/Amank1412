@@ -50,7 +50,6 @@ I enjoy contributing to open-source software by building features, improving dev
 - Contributed to the migration from **React + Vite** to **Next.js 15** with the App Router.
 - Implemented **API Routes**, **Server Actions**, and migrated the codebase to **TypeScript**.
 - Added automated testing infrastructure, CI/CD workflows, and improved overall developer experience.
-- Collaborated with maintainers to modernize the project's architecture with production-ready engineering practices.
 
 ---
 **Find me:**  
