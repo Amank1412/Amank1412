@@ -45,7 +45,7 @@ I enjoy contributing to open-source software by building features, improving dev
 
 ### Featured Contribution
 
-#### [BioBlock](https://github.com/healthyinc/bio-block)
+### [BioBlock](https://github.com/healthyinc/bio-block)
 
 - Contributed to the migration from **React + Vite** to **Next.js 15** with the App Router.
 - Implemented **API Routes**, **Server Actions**, and migrated the codebase to **TypeScript**.
