@@ -36,18 +36,6 @@ Outside of work, I enjoy shipping side projects, contributing to open source, an
 - Features digital signatures, PDF generation, email delivery, analytics dashboard, Supabase authentication, and secure payment workflows.
 - **Tech Stack:** Next.js, TypeScript, Supabase, Resend, Dodo Payments, jsPDF, Tailwind CSS.
 
----
-### Open Source
-
-I enjoy contributing to open-source software by building features, improving developer experience, and strengthening engineering workflows.
-
-### Featured Contribution
-
-### [BioBlock](https://github.com/healthyinc/bio-block)
-
-- Contributed to the migration from **React + Vite** to **Next.js 15** with the App Router.
-- Implemented **API Routes**, **Server Actions**, and migrated the codebase to **TypeScript**.
-- Added automated testing infrastructure, CI/CD workflows, and improved overall developer experience.
 
 ---
 **Find me:**  
